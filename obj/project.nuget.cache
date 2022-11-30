@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8/BUzMz8GDa1gQLrvv7Z/Uw0PIlzgMe4gTAe0rDPw8VFLGuEVBdi0/p9fa9LmnXIkKqVLmyI2+9A5LI08uuYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Morgan\\Desktop\\CSE210\\Intro python 210\\RFK-Specification-main\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Morgan\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\Morgan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
